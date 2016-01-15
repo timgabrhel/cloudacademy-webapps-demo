@@ -1,0 +1,1 @@
+﻿Remove-AzureRmResourceGroup -Name CloudAcademyWebApps -Force

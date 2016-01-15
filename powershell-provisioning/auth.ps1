@@ -1,0 +1,1 @@
+﻿Login-AzureRmAccount -TenantId "{your tenant id}"
